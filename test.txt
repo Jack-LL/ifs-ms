@@ -2,5 +2,9 @@ aaaa
 bbbbbbb
 add this line in dev branch
 add this line in feature01 branch 
+<<<<<<< HEAD
 add otherthing in feature02 fore testing reflict resolving
 add something test reflict resolving
+=======
+add something at my idea ide
+>>>>>>> d844d5447255e3b02f2b948c4a06796b465542c8
